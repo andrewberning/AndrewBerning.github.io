@@ -2162,6 +2162,7 @@ input[type="radio"]+label:before {
 }
 
 /* Image */
+
 .image {
   border-radius: 0.375em;
   border: 0;
@@ -2218,7 +2219,7 @@ input[type="radio"]+label:before {
 
 a.image {
   overflow: hidden;
-  border: 3px solid black;
+  border: 2px solid black;
 }
 
 a.image img {
@@ -2947,7 +2948,8 @@ button:disabled,
   margin: 0 0 2em 0;
 }
 
-.posts article .image img {
+.posts article .image img,
+.posts article .image video {
   display: block;
   width: 100%;
 }
