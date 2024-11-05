@@ -3494,7 +3494,6 @@ button:disabled,
   justify-content: center;
   margin: 0 0 2em 4em;
   width: 50%;
-  /* border: 3px solid hotpink; */
 
 }
 
@@ -3510,7 +3509,6 @@ button:disabled,
   width: 100%;
   aspect-ratio: 1;
   border-radius: 50%;
-  /* border: 3px solid gold; */
 }
 
 @media screen and (orientation: portrait) {
